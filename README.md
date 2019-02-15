@@ -26,7 +26,8 @@ Here are a couple of challenges to get you familiar with a local git flow and wi
 4. Run `git add .`
 5. Run `git status` to view the status repo
 6. Run `git commit -m "updated oddOrEven.js`
-7. Run `git push origin master`
+7. Run `git log` to view your commits
+8. Run `git push origin master`
 
 ### Challenge 2: Adding a file
 
@@ -36,4 +37,5 @@ Here are a couple of challenges to get you familiar with a local git flow and wi
 4. Run `git add .`
 5. Run `git status` to view the status repo
 6. Run `git commit -m "added a file"`
-7. Run `git push origin master`
+7. Run `git log` to view your commits
+8. Run `git push origin master`
