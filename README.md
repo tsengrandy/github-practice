@@ -6,8 +6,7 @@ Here are your instructions:
 
 ## Getting the repository
 
-1. Find and click the 'Fork' button under the navbar
-  - This gives you a copy of the repo under your Github user account
+1. Find and click the 'Fork' button under the navbar (this gives you a copy of the repo under your Github user account)
 2. Find and click the 'Clone or Download' button
 3. Copy the link or click the Clipboard button on the right
 4. In terminal, navigate to the Desktop
